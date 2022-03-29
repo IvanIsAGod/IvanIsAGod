@@ -4,6 +4,5 @@
 <p align="middle"><b>Ivan<br>
 	NodeJS & C++ Dev<br>
         I make useless things<br>
-	CEO @ Discrete<br>
-	https://discrete.software/<br>
+	Lost a Brotha<br>
 </p>
